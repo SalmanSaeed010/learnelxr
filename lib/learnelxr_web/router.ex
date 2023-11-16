@@ -27,6 +27,7 @@ defmodule LearnelxrWeb.Router do
   # scope "/api", LearnelxrWeb do
   #   pipe_through :api
   # end
+  # commit test
 
   # Enable LiveDashboard and Swoosh mailbox preview in development
   if Application.compile_env(:learnelxr, :dev_routes) do
